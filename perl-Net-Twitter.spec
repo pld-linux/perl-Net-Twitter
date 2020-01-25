@@ -4,7 +4,6 @@
 
 %define		pdir	Net
 %define		pnam	Twitter
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::Twitter - A perl interface to the Twitter API
 Name:		perl-Net-Twitter
 Version:	3.18001
